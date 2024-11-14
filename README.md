@@ -1,4 +1,4 @@
-# 🐘 PostgreSQL Quickstart
+# 🐘💨 PostgreSQL quickstart
 
 This repository contains a [Docker](https://www.docker.com/) setup for [PostgreSQL](https://www.postgresql.org/) and [pgAdmin](https://www.pgadmin.org/).
 
